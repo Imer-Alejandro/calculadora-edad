@@ -8,7 +8,7 @@ Este proyecto tiene como objetivo facilitar el calculo preciso de la edad actual
 
 ## Funcionamineto
 
-El programa se encarga de recibir una fecha de nacimiento como parametro, para luego realizar el calculo. Restando la fehca actual con la recibida como parametro, para luego dividir el resultado por 365. 
+El programa se encarga de recibir una fecha de nacimiento como parametro, para luego realizar el calculo. Restando la fecha actual con la recibida como parametro, para luego dividir el resultado por 365. 
 
 
 
